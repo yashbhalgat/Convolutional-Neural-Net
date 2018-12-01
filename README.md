@@ -3,6 +3,6 @@ A Convolutional Neural Network built from scratch - Assignment for Advanced Comp
 
 Author - Yash Bhalgat
 
-Guide - Prof. Jia Deng
+Professor - Prof. Jia Deng
 
 Edit and run the file main.m to train and test the network on the MNIST database.
